@@ -56,11 +56,11 @@ A fast and accurate mobile application that identifies food items using on-devic
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Developed by
 
 Md. Maksaline Haque Sajib
-[Visit Website](https://www.maksaline.com)
-[Contact me](mailto:sajib19285@gmail.com?subject=Food%20Classification%20App%20Inquiry)
+- [Visit Website](https://www.maksaline.com)
+- [Contact me](mailto:sajib19285@gmail.com?subject=Food%20Classification%20App%20Inquiry)
 
 ---
 
