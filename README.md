@@ -2,6 +2,15 @@
 
 A fast and accurate mobile application that identifies food items using on-device machine learning. Simply take a photo or select one from your gallery, and instantly get the classification result with confidence levels.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="assets/ss1.jpg.png" alt="Camera Capture" width="300"/></td>
+    <td><img src="assets/ss2.jpg.png" alt="Gallery Pick" width="300"/></td>
+  </tr>
+</table>
+
 ## Features
 
 - **Lightning-Fast Classification**: Powered by an optimized TensorFlow Lite model that runs entirely on your device
