@@ -51,7 +51,7 @@ A fast and accurate mobile application that identifies food items using on-devic
 
 Download the apk file and install it on your device.
 
-[Download apk](https://github.com/Maksaline/Food-Classifier-App/releases/download/stable/Food.Classifier.apk)
+[Download apk](https://github.com/Maksaline/Food-Classifier-App/releases/download/raw/Food.Classifier.apk)
 
 ## License
 
