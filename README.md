@@ -47,10 +47,11 @@ A fast and accurate mobile application that identifies food items using on-devic
 - Camera permission (for taking photos)
 - Gallery/Storage permission (for selecting images)
 
-[//]: # (## Installation)
+## Installation
 
-[//]: # ()
-[//]: # ([Add installation instructions specific to your distribution method - Play Store, App Store, or direct APK/IPA])
+Download the apk file and install it on your device.
+
+[Download apk](https://github.com/Maksaline/Food-Classifier-App/releases/download/stable/Food.Classifier.apk)
 
 ## License
 
