@@ -6,8 +6,8 @@ A fast and accurate mobile application that identifies food items using on-devic
 
 <table>
   <tr>
-    <td><img src="assets/ss1.jpg.png" alt="Camera Capture" width="300"/></td>
-    <td><img src="assets/ss2.jpg.png" alt="Gallery Pick" width="300"/></td>
+    <td><img src="assets/ss1.jpg" alt="Camera Capture" width="300"/></td>
+    <td><img src="assets/ss2.jpg" alt="Gallery Pick" width="300"/></td>
   </tr>
 </table>
 
