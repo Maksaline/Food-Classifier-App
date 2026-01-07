@@ -4,7 +4,7 @@ A fast and accurate mobile application that identifies food items using on-devic
 
 ## Screenshots
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td><img src="assets/ss1.jpg" alt="Camera Capture" width="300"/></td>
     <td><img src="assets/ss2.jpg" alt="Gallery Pick" width="300"/></td>
